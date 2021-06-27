@@ -1,0 +1,48 @@
+/* * {
+  border: solid 1px red;
+} */
+.navbar {
+  position: relative;
+  min-height: 50px;
+  margin-bottom: 10px;
+  background-color: #b3deff;
+}
+.nav-item {
+  background-color: white;
+  margin-left: 10px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+li:hover {
+  background-color: #a1c8e6;
+}
+.navbar-nav {
+  margin-left: 150px;
+}
+h1 {
+  color: #34404a;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  font-family: "Noto Sans TC", sans-serif;
+}
+p {
+  color: #34404a;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  font-family: "Noto Sans TC", sans-serif;
+}
+.l1 {
+  background-color: #b3deff;
+  padding: 5px;
+  text-align: center;
+  font-size: 24px;
+  font-family: "Noto Sans TC", sans-serif;
+  color: white;
+}
+.card-body {
+  margin-bottom: 0px;
+  margin-top: 0px;
+  text-align: center;
+}
